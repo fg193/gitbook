@@ -36,7 +36,7 @@
     "ignore": "3.2.1",
     "immutable": "^3.8.1",
     "is": "^3.1.0",
-    "js-yaml": "^3.6.1",
+    "js-yaml": "^4.1.0",
     "json-schema-defaults": "0.4.0",
     "jsonschema": "1.1.0",
     "juice": "2.0.0",
