@@ -58,7 +58,7 @@
     "send": "0.17.1",
     "spawn-cmd": "0.0.2",
     "tiny-lr": "2.0.0",
-    "tmp": "0.0.28",
+    "tmp": "0.2.1",
     "urijs": "1.19.7"
   },
   "devDependencies": {
