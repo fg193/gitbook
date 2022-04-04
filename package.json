@@ -59,7 +59,7 @@
     "spawn-cmd": "0.0.2",
     "tiny-lr": "2.0.0",
     "tmp": "0.2.1",
-    "urijs": "1.19.7"
+    "urijs": "1.19.11"
   },
   "devDependencies": {
     "eslint": "2.10.2",
